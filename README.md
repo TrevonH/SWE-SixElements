@@ -1,2 +1,2 @@
 # SWE-SixElements
- Cinesage
+ CineSage
